@@ -13,7 +13,7 @@
     Shivang Gupta - 2019101117
     
 ## Files details
-- `docs`: contains the project write up, **Report.pdf**, etc.
+- `Report.pdf`: explains the whole procedure.
 - `dataset`: contains the data used fot training and testing (other large data files are not included but are uploaded on the GDrive).
 - Baseline
     - `cbow.ipynb`: contains the code for cbow, gensim and glove models for bias detection.
