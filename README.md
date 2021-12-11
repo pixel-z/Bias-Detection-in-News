@@ -1,5 +1,14 @@
 # Bias Detection in News
 
+`TEAM`: 
+    
+    PizzaPizza  
+
+`Members`: 
+
+    Zishan Kazi
+    Shivang Gupta
+
 ## Files details
 - `docs`: contains the project write up, report.pdf, etc.
 - `dataset`: contains the data used fot training and testing (other large data files are not included but are uploaded on the GDrive).
