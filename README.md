@@ -1,16 +1,4 @@
 # Bias Detection in News
-`TEAM`: 
-    
-    PizzaPizza
-    
-`TEAM NUMBER`
-    
-    29
-
-`Members`: 
-
-    Zishan Kazi - 2019111031
-    Shivang Gupta - 2019101117
     
 ## Files details
 - `Report.pdf`: explains the whole procedure.
